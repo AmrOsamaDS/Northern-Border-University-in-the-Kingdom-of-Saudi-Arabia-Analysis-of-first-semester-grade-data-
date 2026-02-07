@@ -51,7 +51,8 @@ This project is a comprehensive Data Visualization & Analysis Dashboard develope
 - Drill through the reports to see granular student-level statistics.
 
 ## Author
-Amr Osama 
+Amr Osama
+
 Data Scientist | Power BI Developer
 
 LinkedIn: https://www.linkedin.com/in/amr-osama-el-sayed
